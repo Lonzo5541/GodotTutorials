@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Za8xN0RvZG+/Gz6MQnbMeVfB5mqD1rqr8KzY2Ld30hqmydtRVbqCVV4vQVbUflABz5IvSkkJ1/AKkDP+b4naOg==",
+  "success": true,
+  "projectFilePath": "D:\\GodotProjects\\GodotTutorials\\Lesson 6_Creating 2D Game\\Lesson 6- Dodge The Creeps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ren\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ren\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

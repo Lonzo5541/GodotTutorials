@@ -1,0 +1,8 @@
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\obj\Debug\Lesson 6- Dodge The Creeps.csprojAssemblyReference.cache
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\obj\Debug\Lesson 6- Dodge The Creeps.AssemblyInfoInputs.cache
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\obj\Debug\Lesson 6- Dodge The Creeps.AssemblyInfo.cs
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\obj\Debug\Lesson 6- Dodge The Creeps.csproj.CoreCompileInputs.cache
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\bin\Debug\Lesson 6- Dodge The Creeps.dll
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\bin\Debug\Lesson 6- Dodge The Creeps.pdb
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\obj\Debug\Lesson 6- Dodge The Creeps.dll
+D:\GodotProjects\GodotTutorials\Lesson 6_Creating 2D Game\.mono\temp\obj\Debug\Lesson 6- Dodge The Creeps.pdb
