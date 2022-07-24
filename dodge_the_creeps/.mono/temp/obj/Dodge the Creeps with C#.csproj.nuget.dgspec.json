@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GodotProjects\\GodotTutorials\\dodge_the_creeps\\Dodge the Creeps with C#.csproj": {}
+  },
+  "projects": {
+    "D:\\GodotProjects\\GodotTutorials\\dodge_the_creeps\\Dodge the Creeps with C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GodotProjects\\GodotTutorials\\dodge_the_creeps\\Dodge the Creeps with C#.csproj",
+        "projectName": "Dodge the Creeps with C#",
+        "projectPath": "D:\\GodotProjects\\GodotTutorials\\dodge_the_creeps\\Dodge the Creeps with C#.csproj",
+        "packagesPath": "C:\\Users\\Ren\\.nuget\\packages\\",
+        "outputPath": "D:\\GodotProjects\\GodotTutorials\\dodge_the_creeps\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ren\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
