@@ -90,5 +90,14 @@ public class Player : Area2D
 		// Must be deferred as we can't change physics properties on a physics callback.
 		GetNode<CollisionShape2D>("CollisionShape2D").SetDeferred("disabled", true);
 	}
+	
+	public void resetSprite(){
+		
+		var velocity = Vector2.Zero;
+		var animatedSprite = GetNode<AnimatedSprite>("AnimatedSprite");
+		
+		animatedSprite.Animation = "Idle";
+		animatedSprite.FlipV = velocity.y > 0;
+	}
 
 }

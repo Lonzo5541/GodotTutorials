@@ -27,11 +27,13 @@ public class Main : Node
 
 	public void NewGame()
 	{
+		GetTree().CallGroup("mobs", "queue_free");
+		
 		Score = 0;
 		
-
 		var player = GetNode<Player>("Player");
 		var startPosition = GetNode<Position2D>("StartPosition");
+		player.resetSprite();
 		player.Start(startPosition.Position);
 		
 		GetNode<Timer>("StartTimer").Start();
