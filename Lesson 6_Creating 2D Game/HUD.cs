@@ -6,12 +6,7 @@ public class HUD : CanvasLayer
 	[Signal]
 	public delegate void StartGame();
 	
-	public override void _Ready()
-	{
-		
-	}
-	
-	public void ShowMessage(String text)
+	public void ShowMessage(string text)
 	{
 		var message = GetNode<Label>("Message");
 		message.Text = text;
@@ -31,7 +26,6 @@ public class HUD : CanvasLayer
 		message.Text = "Dodge the\nCreeps!";
 		message.Show();
 
-		await ToSignal(GetTree().CreateTimer(1), "timeout");
 		GetNode<Button>("StartButton").Show();
 	}
 	
@@ -47,8 +41,7 @@ public class HUD : CanvasLayer
 
 	public void _on_StartButton_pressed()
 	{
-		GetNode<Button>("StartButton").Hide();
-		EmitSignal("StartGame");
+			GetNode<Button>("StartButton").Hide();
+			EmitSignal(nameof(StartGame));
 	}
 }
-
