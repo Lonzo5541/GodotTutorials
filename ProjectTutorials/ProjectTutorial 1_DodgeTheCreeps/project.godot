@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="Lesson 6: Dodge The Creeps"
+config/name="ProjectTutorial 1: Dodge The Creeps"
 run/main_scene="res://Main.tscn"
 config/icon="res://art/playerGrey_up1.png"
 
