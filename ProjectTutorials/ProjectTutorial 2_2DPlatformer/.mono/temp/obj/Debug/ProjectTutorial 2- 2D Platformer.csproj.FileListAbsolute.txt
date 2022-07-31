@@ -1,0 +1,9 @@
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.csproj.AssemblyReference.cache
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.AssemblyInfoInputs.cache
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.AssemblyInfo.cs
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\bin\Debug\ProjectTutorial 2- 2D Platformer.dll
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\bin\Debug\ProjectTutorial 2- 2D Platformer.pdb
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.dll
+C:\Users\Ren\Desktop\GameDev\GodotTutorials\ProjectTutorials\ProjectTutorial 2_2DPlatformer\.mono\temp\obj\Debug\ProjectTutorial 2- 2D Platformer.pdb
