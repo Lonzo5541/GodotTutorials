@@ -15,7 +15,7 @@ public class Player : Actor
 	public void _process(float delta){
 		
 		//var for jump input
-		int jump;
+		int jumpV;
 
 		//speed of the player
 		speed = new Vector2(800, 1000);
@@ -23,16 +23,16 @@ public class Player : Actor
 		//checks to
 		if (Input.IsActionPressed("jump")) {
 			
-			jump = -1;
+			jumpV = -1;
 
 		} else {
 
-			jump = 1;
+			jumpV = 1;
 		}
 		
 		// The player's movement vector
 		// returns -1 if moving left, 1 if moving right, 0 if not moving or both keys are pressed
-		Vector2 direction = new Vector2(Input.GetActionStrength("move_right") - Input.GetActionRawStrength("move_left"), jump);
+		Vector2 direction = new Vector2(Input.GetActionStrength("move_right") - Input.GetActionRawStrength("move_left"), jumpV);
 
 		velocity = speed * direction;
 
